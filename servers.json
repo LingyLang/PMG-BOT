@@ -1,0 +1,22 @@
+{
+	"server1" : {
+		"ip" : "149.56.39.246",
+		"port" : "30120",
+		"password" : "PMGURSVD",
+		"sender" : "PMGAnouncer"
+	},
+	
+	"server2" : {
+		"ip" : "YOUR_IP_HERE",
+		"port" : "YOUR_PORT_HERE",
+		"password" : "YOUR_PASSWORD_HERE",
+		"sender" : "ANY_NAME_HERE"
+	},
+	
+	"server3" : {
+		"ip" : "YOUR_IP_HERE",
+		"port" : "YOUR_PORT_HERE",
+		"password" : "YOUR_PASSWORD_HERE",
+		"sender" : "ANY_NAME_HERE"
+	}
+}
